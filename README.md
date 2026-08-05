@@ -1,2 +1,2 @@
 # FilmCraft
-# FilmCraft Starter project structure.
+Starter project structure.
