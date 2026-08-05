@@ -1,1 +1,0 @@
-export default function Home(){return <main><h1>FilmCraft</h1><p>Filmmaking Tips & Tricks</p></main>}

@@ -1,1 +1,0 @@
-export default ()=> <main><h1>Blog</h1></main>
